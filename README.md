@@ -1,6 +1,6 @@
-# MCP Collection - Transform 24 Days into 5 Minutes ⚡
+# Awesome MCP for Claude Code ⚡
 
-> **14 Pre-configured MCP Services for Claude Code** | Setup automation that actually works
+> Curated list of 14 essential MCP services for Claude Code - Save 21 hours of setup
 
 [![GitHub Stars](https://img.shields.io/github/stars/DONGHO5270/mcp-collection?style=social)](https://github.com/DONGHO5270/mcp-collection/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,226 +8,124 @@
 
 ---
 
-## ⭐ Star This Repository
+## 🎯 What is This?
 
-**If you find this collection valuable, please star this repository!** ⭐
+**Setting up MCP services for Claude Code is painful** - 14 repos, cryptic errors, 21+ hours of trial-and-error.
 
-Your stars help others discover this resource and motivate continued development.
+This collection **curates and categorizes** the essential MCPs you actually need, saving you from decision fatigue.
 
-## 🎯 The Problem
-
-Setting up MCP services for Claude Code is **painful**:
-- ❌ 21 days of manual configuration (1.5h × 14 services)
-- ❌ Cryptic error messages with no clear solutions
-- ❌ Scattered documentation across 14+ repositories
-- ❌ Trial-and-error debugging eating your productivity
-
-## ✨ The Solution
-
-**Free Version** (This Repository):
-- ✅ 14 MCP service documentation in one place
-- ✅ Manual installation guides with troubleshooting
-- ✅ Common issues and solutions
-- ✅ Alternative setup methods
-
-**Premium Version** ([$19 One-Time](https://gumroad.com/l/mcp-collection-premium))**:
-- 🚀 **5-minute automated setup** (vs 21 days manual)
-- 🚀 One-click installation scripts
-- 🚀 Automated dependency resolution
-- 🚀 Pre-configured `.mcp.json` templates
-- 🚀 Private setup support
+**📚 For detailed setup guides, examples, and automation:** → **[mcp-management.dev](https://mcp-management.dev)**
 
 ---
 
-## 📋 14 MCP Services Included
+## 📋 14 Essential MCPs
 
-### Tier 1: Core Analysis Tools (4 Services) 🧠
+### Tier 1: Core Analysis Tools (4 MCPs) 🧠
 
-**Deep thinking and analysis frameworks for complex problem-solving**
+**Deep thinking and systematic problem-solving**
 
-These are the foundation MCPs that provide cognitive enhancement and systematic thinking capabilities.
+- [**clear-thought**](https://github.com/lolsZz/clear-thought) - Sequential analysis with thought branching and revision tracking
+- [**clear-thought-1.5**](https://github.com/coleam00/ottomator-agents) - Advanced systems thinking with 30+ cognitive operations
+- [**sequential-thinking-tools**](https://github.com/sequentialthinking/mcp-server) - Step-by-step problem decomposition and planning
+- [**stochastic-thinking**](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Monte Carlo simulation and probabilistic decision-making
 
-| Service | Description | Free Docs | Premium Setup |
-|---------|-------------|-----------|---------------|
-| [clear-thought](./docs/clear-thought/) | Deep sequential analysis with branching | ✅ | 🚀 |
-| [clear-thought-1.5](./docs/clear-thought-1.5/) | Advanced system thinking & 30+ operations | ✅ | 🚀 |
-| [sequential-thinking-tools](./docs/sequential-thinking-tools/) | Step-by-step problem solving | ✅ | 🚀 |
-| [stochastic-thinking](./docs/stochastic-thinking/) | Probabilistic decision-making & Monte Carlo | ✅ | 🚀 |
-
-### Tier 2: Development Tools (6 Services) 🛠️
+### Tier 2: Development Tools (6 MCPs) 🛠️
 
 **Code analysis, package management, and development utilities**
 
-Essential tools for software development workflow and codebase management.
+- [**context7**](https://github.com/contextprotocol/context7) - Code context analysis with AST parsing and dependency tracking
+- [**code-context-provider-mcp**](https://github.com/Kvadratni/mcp-code-context) - Enhanced code context extraction with symbol overview
+- [**github-mcp**](https://github.com/github/github-mcp) - Official GitHub integration (repos, PRs, issues, search)
+- [**npm-sentinel-mcp**](https://github.com/snaggle-ai/mcp-npm-sentinel) - NPM package monitoring, security scanning, and trends
+- [**node-omnibus-mcp**](https://github.com/QuantGeekDev/node-omnibus-mcp) - Comprehensive Node.js utilities and project scaffolding
+- [**model-enhancement-servers**](https://github.com/cyanheads/model-enhancement-servers) - Cognitive enhancement suite (13+ reasoning modules)
 
-| Service | Description | Free Docs | Premium Setup |
-|---------|-------------|-----------|---------------|
-| [context7](./docs/context7/) | Code context analysis with AST parsing | ✅ | 🚀 |
-| [code-context-provider-mcp](./docs/code-context-provider-mcp/) | Enhanced code context extraction | ✅ | 🚀 |
-| [github-mcp](./docs/github-mcp/) | Official GitHub repository management | ✅ | 🚀 |
-| [npm-sentinel-mcp](./docs/npm-sentinel-mcp/) | NPM package monitoring & security | ✅ | 🚀 |
-| [node-omnibus-mcp](./docs/node-omnibus-mcp/) | Node.js utilities collection | ✅ | 🚀 |
-| [model-enhancement-servers](./docs/model-enhancement-servers/) | Cognitive enhancement (13+ modules) | ✅ | 🚀 |
+### Tier 3: Automation & Backend (4 MCPs) 🤖
 
-### Tier 3: Automation & Backend (4 Services) 🤖
+**Browser automation, Python tools, database, and memory**
 
-**Browser automation, Python tools, database management, and memory systems**
-
-Advanced automation and backend integration for comprehensive workflows.
-
-| Service | Description | Free Docs | Premium Setup |
-|---------|-------------|-----------|---------------|
-| [python-toolbox-mcp](./docs/python-toolbox-mcp/) | Python development toolkit | ✅ | 🚀 |
-| [playwright-mcp](./docs/playwright-mcp/) | Microsoft browser automation | ✅ | 🚀 |
-| [supabase-mcp](./docs/supabase-mcp/) | Official Supabase DB management | ✅ | 🚀 |
-| [serena](./docs/serena/) | Oraios memory system (70% token savings) | ✅ | 🚀 |
+- [**python-toolbox-mcp**](https://github.com/QuantGeekDev/python-toolbox-mcp) - Python development toolkit (code analysis, formatting, execution)
+- [**playwright-mcp**](https://github.com/executeautomation/playwright-mcp) - Microsoft Playwright browser automation
+- [**supabase-mcp**](https://github.com/supabase/mcp) - Official Supabase integration (DB, Auth, Storage)
+- [**serena**](https://github.com/cyanheads/serena) - Oraios memory system with 70% token savings
 
 ---
 
 ## 🚀 Quick Start
 
-### Option A: Free Setup (Manual, ~21 days)
-```bash
-# Clone this repository
-git clone https://github.com/DONGHO5270/mcp-collection.git
-cd mcp-collection
+### Option 1: Manual Setup (Free, 21 hours)
 
-# Browse documentation for each service
-cd docs/clear-thought
-# Follow README.md for manual installation
-```
+1. Visit each MCP's GitHub repository (links above)
+2. Follow their installation instructions
+3. Configure `.mcp.json` manually
+4. Debug errors as they appear
 
-**What you get**:
-- Detailed installation guides for 14 MCPs
-- Troubleshooting for common errors
-- Manual configuration examples
-- Community support via GitHub Issues
+### Option 2: Automated Setup (5 minutes)
 
-**Time investment**: 1.5 hours per service × 14 = **21 hours total**
+**Full setup guides, examples, and automation:**
 
-### Option B: Premium Setup (Automated, ~5 minutes) 🚀
-
-```bash
-# Download premium package from Gumroad
-# Extract and run setup script
-./setup-mcp-collection.sh
-
-# ✅ Done! All 14 services configured
-```
-
-**What you get**:
-- One-click installation scripts for all 14 MCPs
-- Automated `.mcp.json` configuration
-- Dependency resolution
-- Pre-configured environment variables
-- Priority support
-
-**Time investment**: **5 minutes total**
-
-[**🚀 Get Premium Version - $19 One-Time →**](https://gumroad.com/l/mcp-collection-premium)
+→ **[mcp-management.dev](https://mcp-management.dev)**
 
 ---
 
-## 💎 Why Choose Premium?
+## 💡 Why This List Exists
 
-**Save 20 hours of frustration** - Stop wasting time on configuration errors.
+**Problem**: 1,000+ MCP projects on GitHub, no way to know which ones work
 
-| Feature | Free (Manual) | Premium (Automated) |
-|---------|---------------|---------------------|
-| Setup Time | 21 hours | 5 minutes |
-| Error Handling | Manual debugging | Automatic resolution |
-| Configuration | Copy-paste mistakes | Pre-validated templates |
-| Support | Community only | Priority support |
-| Updates | Manual tracking | Auto-update scripts |
+**Solution**: Curated, tested, and categorized the 14 most essential MCPs
 
-**One-time payment. Lifetime access. No subscription.**
-
-[**🚀 Transform Your Setup Experience →**](https://gumroad.com/l/mcp-collection-premium)
-
----
-
-## 📖 Documentation Structure
-
-Each MCP service has a dedicated folder in `/docs/` with:
-
-```
-/docs/{service-name}/
-├── README.md          # Main documentation
-│   ├── 📌 What is {service}?
-│   ├── 🔧 Manual Installation
-│   ├── ⚙️ Configuration
-│   ├── 🚨 Common Issues
-│   └── 🔄 Alternative Methods
-└── examples/          # Usage examples (coming soon)
-```
-
----
-
-## 🎯 Who Is This For?
-
-✅ **You should use this if**:
-- You're setting up Claude Code MCP services
-- You're tired of cryptic configuration errors
-- You want all documentation in one place
-- You value your time over manual setup
-
-❌ **This might not be for you if**:
-- You enjoy spending days debugging configurations
-- You prefer scattered documentation
-- You have unlimited time for trial-and-error
+**Value**:
+- ✅ **Curation**: 14 battle-tested MCPs (not random 100+)
+- ✅ **Categorization**: Tier 1-2-3 structure for quick navigation
+- ✅ **Trust**: Each MCP verified and actively maintained
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you:
-- Found a better installation method
-- Solved a tricky error
-- Have usage examples to share
+Found a better MCP? Have improvements?
 
-Please open a Pull Request or Issue.
-
-### Contribution Guidelines
 1. Fork this repository
-2. Add your improvements to the relevant `/docs/{service}/README.md`
-3. Test your changes
-4. Submit a PR with clear description
+2. Add your suggestion to the appropriate Tier
+3. Submit a Pull Request
+
+**Contribution guidelines**:
+- MCPs must be actively maintained (updated within 6 months)
+- Must work with Claude Code (tested)
+- Include 1-line description following existing format
 
 ---
 
-## 📊 Project Status
+## 📊 Project Stats
 
-- **Total Services**: 14 MCP services
-- **Documentation**: 14/14 complete ✅
-- **Average Lines per MCP**: 267 lines (optimized for readability)
-- **Template Consistency**: 100% (Tier 1-2-3)
-- **Premium Scripts**: Available via [Gumroad](https://gumroad.com/l/mcp-collection-premium)
+- **Total MCPs**: 14 services
+- **Categories**: 3 tiers (Analysis, Development, Automation)
+- **Maintenance**: Active (weekly updates)
 - **Community**: Growing (be an early supporter!)
+
+---
+
+## 🔗 Resources
+
+- **Full Documentation**: [mcp-management.dev](https://mcp-management.dev) - Setup guides, examples, automation
+- **Issues & Questions**: [GitHub Issues](https://github.com/DONGHO5270/mcp-collection/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/DONGHO5270/mcp-collection/discussions)
 
 ---
 
 ## 📝 License
 
-MIT License - see [LICENSE](LICENSE) file for details
+MIT License - see [LICENSE](LICENSE) file
 
 ---
 
 ## ⭐ Support This Project
 
-If this repository saved you time:
+If this list saved you time:
 - ⭐ **Star this repository** to help others discover it
-- 🚀 **Get the premium version** to support development
-- 🤝 **Contribute** documentation improvements
+- 🤝 **Contribute** improvements or new MCPs
 - 📢 **Share** with your network
 
 ---
 
-## 🔗 Links
-
-- **Premium Version**: [Gumroad - $19 One-Time](https://gumroad.com/l/mcp-collection-premium)
-- **Issues & Support**: [GitHub Issues](https://github.com/DONGHO5270/mcp-collection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/DONGHO5270/mcp-collection/discussions)
-
----
-
-**Transform 21 days into 5 minutes.** Start now. ⚡
+**Transform 21 days into 5 minutes.** Visit [mcp-management.dev](https://mcp-management.dev) ⚡
